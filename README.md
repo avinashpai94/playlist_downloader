@@ -1,5 +1,7 @@
 # SYPlaylist Downloader
 
+### This was done as a learning experience. All the copyrights for the music belong to the respective owners. Please do not pirate music.
+
 [![N|Solid](https://www.python.org/static/community_logos/python-powered-w-100x40.png)](https://https://www.python.org/)
 
 ## SYPlaylist Downloader is a python based script to download mp3 versions of your favourite songs from a publicly available Spotify or YouTube playlist.
